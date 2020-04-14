@@ -2,6 +2,7 @@
 if exists('g:loaded_bundle_github-issues')
   finish
 endif
+let g:loaded_bundle_github-issues=1
 " -------------------------------------------------------------------------- }}}
 " {{{ github-issues
 let g:gissues_async_omni = 1
